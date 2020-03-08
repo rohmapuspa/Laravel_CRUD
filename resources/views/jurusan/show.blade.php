@@ -1,0 +1,1 @@
+resources/views/jurusan/show.blade.php
